@@ -25,9 +25,17 @@ doesn't make produce files.
 
 Restricts control and sensitive commands to admins.
 
+### 🗑 Clean and spam free
+
+Deletes old playing trash to keep your chats clean.
+
 ### 😎 Has cool controls
 
 Lets you switch stream mode, loop, pause, resume, mute, unmute anytime.
+
+### 🖼 Has cool thumbnails
+
+Response your commands with cool thumbnails on the chat.
 
 ### 😉 Streams whatever you like
 
